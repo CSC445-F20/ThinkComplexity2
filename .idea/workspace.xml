@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="930229ac-7386-415e-885c-c5a71566c766" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ThinkComplexity2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/figs/chap07-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/figs/chap07-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/figs/chap07-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/figs/chap07-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/figs/chap07-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/figs/chap07-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/figs/chap07-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/figs/chap07-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/figs/chap07-9.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Imma\Documents\ThinkComplexity2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kX0Ne9M9Sehg244KnOW4L58s3L" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="930229ac-7386-415e-885c-c5a71566c766" name="Default Changelist" comment="" />
+      <created>1605831589856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605831589856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
